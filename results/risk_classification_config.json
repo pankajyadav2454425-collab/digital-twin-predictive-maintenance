@@ -1,7 +1,0 @@
-{
-    "warning_threshold": 0.02,
-    "critical_threshold": 0.1,
-    "healthy_range": "0 <= p < 0.02",
-    "warning_range": "0.02 <= p < 0.1",
-    "critical_range": "0.1 <= p <= 1"
-}
