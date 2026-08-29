@@ -1,0 +1,7 @@
+{
+    "calibration_method": "sigmoid",
+    "cross_validation_folds": 5,
+    "calibrated_model": "/content/drive/MyDrive/digital_twin_maintenance/models/failure_model_calibrated.pkl",
+    "testing_observations": 2000,
+    "testing_failures": 68
+}

@@ -1,0 +1,4 @@
+Strategy,Evaluated cycles,Actual failures,Planned maintenance,Prevented failures,Unplanned failures,Corrective repairs,Unnecessary maintenance,Total interventions,Failure coverage,Maintenance precision,Maintenance cost,Failure cost,Total cost,Cost per cycle,Savings vs corrective,Savings percentage
+Predictive digital twin,2000,68,75,58,10,10,17,85,0.8529411764705882,0.7733333333333333,750000.0,1000000.0,1750000.0,875.0,5050000.0,0.7426470588235294
+Preventive (tool-wear rule),2000,68,175,26,42,42,149,217,0.38235294117647056,0.14857142857142858,1750000.0,4200000.0,5950000.0,2975.0,850000.0,0.125
+Corrective,2000,68,0,0,68,68,0,68,0.0,0.0,0.0,6800000.0,6800000.0,3400.0,0.0,0.0

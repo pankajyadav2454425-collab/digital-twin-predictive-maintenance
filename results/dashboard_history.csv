@@ -1,0 +1,2 @@
+Timestamp,Cycle,Event,Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Temperature difference [K],Power [W],Overstrain indicator,Failure probability,Predicted failure,Risk level,Recommended action,Expected continue cost,Maintenance threshold,Maintenance count
+2026-08-29T12:11:05.733341+00:00,1,Maintenance,M,298.5,309.1,1705,33.66,0.0,10.600000000000023,6009.89816224381,0.0,0.003638926025097612,0,Healthy,CONTINUE OPERATION,363.8926025097612,0.1,1
