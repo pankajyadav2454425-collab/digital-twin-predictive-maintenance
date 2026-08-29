@@ -1,0 +1,6 @@
+{
+    "preventive_maintenance_cost": 10000.0,
+    "failure_cost": 100000.0,
+    "maintenance_threshold": 0.1,
+    "currency": "INR"
+}

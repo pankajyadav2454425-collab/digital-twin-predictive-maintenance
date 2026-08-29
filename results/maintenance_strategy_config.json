@@ -1,0 +1,11 @@
+{
+    "maintenance_cost": 10000.0,
+    "failure_cost": 100000.0,
+    "predictive_threshold": 0.1,
+    "preventive_tool_wear_threshold": 200.0,
+    "evaluation_observations": 2000,
+    "actual_failures": 68,
+    "best_strategy": "Predictive digital twin",
+    "best_total_cost": 1750000.0,
+    "comparison_assumption": "A planned intervention on a failure-labelled observation prevents that failure."
+}
